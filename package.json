@@ -1,0 +1,17 @@
+{
+  "name": "app_react",
+  "version": "0.0.1",
+  "description": "Backend para la web www.app_react.com",
+  "main": "index.js",
+  "author": "PABLO V",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "body-parser": "^1.19.1",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.2",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.29.1",
+    "mongoose": "^6.1.3"
+  }
+}
